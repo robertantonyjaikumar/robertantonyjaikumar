@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:robertantonyjaikumar@gmail.com">📧 robertantonyjaikumar@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/robertantonyjaikumar/">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.hackerrank.com/profile/ramukiaj">🔗 Hacker Rank</a> &nbsp;|&nbsp;
   📍 Tamil Nadu, India
 </p>
 
