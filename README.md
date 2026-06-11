@@ -74,7 +74,7 @@ Currently leading backend engineering at **The Marygold Companies, Inc.** — ar
 ## 💼 Work Experience
 
 ### 🏢 The Marygold Companies, Inc. — Lead Backend Engineer
-**Oct 2022 – Present | Chennai, India**
+**Oct 2022 – Feb 2026 | Chennai, India**
 
 - Spearheading a high-volume FinTech backend with **Go (Gin)** and **Node.js** for digital banking transaction processing
 - Architected and tested backend systems to support **100K+ concurrent users**
